@@ -4,8 +4,5 @@
     "description": "This is my test with Gitbook.",
     "author": "John Doe, Jane Doe",
     "plugins": {
-    },
-    "structure": {
-        "readme": "intro.md"
     }
 }
