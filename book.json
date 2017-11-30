@@ -1,8 +1,8 @@
 {
     "root": "./doc",
-    "title", "My test document",
-    "description", "This is my test with Gitbook.",
-    "author", "John Doe, Jane Doe",
+    "title": "My test document",
+    "description": "This is my test with Gitbook.",
+    "author": "John Doe, Jane Doe",
     "plugins": {
     },
     "structure": {
